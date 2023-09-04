@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("photo-1434725039720-aaad6dd32dfe.jpeg");
+    background-image: url("https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5Mzg2NjU4NA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600");
 }
 
 .caixa-maior {
@@ -74,6 +74,7 @@ body {
 .texto-previsao {
     color: white;
     margin-left: 20px;
+    text-transform: capitalize;
 }
 
 .umidade {
